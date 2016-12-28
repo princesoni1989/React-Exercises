@@ -1,4 +1,8 @@
 # Day 2
+
+> To make it easier to evaluate better, would request you all to put each of the questions into a separate file(s) and use those instead to test. 
+Unless there is a need for the questions to be interlinked.
+
 1. Create a component Water having a state variable as temperature. Render `Water is in solid state` if `temperature <= 0`, `Water is in a liquid state` if `temperature > 0 and < 100`, `Water in Gas state` if `temperature >= 100`. Change the state of the component from react extension in the browser. 
 
 2. Add ability to above component to change it's state ( `temperature` ) every `5` seconds with some random value between `-10` to `110`. 
