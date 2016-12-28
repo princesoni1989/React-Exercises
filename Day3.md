@@ -1,3 +1,4 @@
+# Day 3
 1. Create a application with three routes : `/home`, `/about`, `/contact-us`. Create components for each route. Make `/home` index route. 
     Refer screenshot at https://drive.google.com/file/d/0B5RL4MwvJrLmd1NCM2lCS0VTOTA/view 
 
