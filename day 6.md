@@ -1,0 +1,3 @@
+1. Create a digital watch that displays time in format: 10:23:55 AM. create actions and reducer required. 
+2. Convert Cart application (day3) in redux app.
+3. Create a login page with username, password field and a "Login" button. Login button should be disabled by default. As user enters both the field it should be enabled. After successfuly login user should be navigated to Home page. Home page should have a nice layout and navigation bar with two routes. MyCart and MyWatch. After clicking on MyCart user should be navigated to /mycart and display the card (EX 2.). MyWatch should navigate user to /mywatch and display the watch (Ex 1).
